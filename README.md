@@ -1,7 +1,8 @@
 # PowerBI
 This Power BI repository contains the visualization dashboards created by me to increase my skills and get hands on experience on the real time projects
 # SalesAnalysis_PowerBI
-[Uploading 2023-05-26 (2).png…]()
+![Uploading 2023-05-26 (2).png…]()
+
 
 # Create Dashboard in Power BI
 Load Data
