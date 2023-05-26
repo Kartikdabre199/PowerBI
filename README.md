@@ -3,7 +3,7 @@ This Power BI repository contains the visualization dashboards created by me to 
 # Adventure products sales and budget analysis using Power BI
 This project involves the analysis of sales data for Adventure Work Products using Microsoft Power BI. The goal is to create a dashboard that provides insights into the sales performance of different product categories and subcategories across various countries, including the UK, US, Germany, Australia, France, and Canada.
 ### Dashboard 
-(https://raw.githubusercontent.com/<kartikdabre199>/<PowerBI>/<Sales and Budget>/<Sales and Budget Analysis.pdf>)
+![ezcv logo](https://raw.githubusercontent.com/<kartikdabre199>/<PowerBI>/<Sales and Budget>/<Sales and Budget Analysis.pdf>)
 
 ### Dashboard Overview :-
 The dashboard presents a comprehensive view of the sales analysis, allowing users to understand the performance of the main categories: accessories, bikes, and clothing. Additionally, it provides insights into the sales of their respective subcategories.
